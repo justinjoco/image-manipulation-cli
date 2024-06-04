@@ -6,4 +6,4 @@ CLI tool that manipulates an input image. Ideas:
 
 Intended to be implemented in Rust
 
-Resource:
+Resource: https://www.graphicsmill.com/docs/gm/transformations-on-images.htm
