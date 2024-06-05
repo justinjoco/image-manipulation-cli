@@ -4,6 +4,6 @@ CLI tool that manipulates an input image. Ideas:
 - Resizing an image
 - Projective and affine transformations
 
-Intended to be implemented in Rust
+Intended to be implemented in Rust or C++
 
 Resource: https://www.graphicsmill.com/docs/gm/transformations-on-images.htm
